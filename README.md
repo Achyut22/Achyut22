@@ -28,12 +28,12 @@
 ---
 
 ### :man_technologist: About Me :
-- 🔭 I’m currently working on data science projects with Python
-- 🌱 I’m currently learning DSA , Predictive analysis , AI applications
+- :telescope: I’m currently working on data science projects with Python
+- :seedling: I’m currently learning DSA , Predictive analysis , AI applications
 - 👯 I’m looking to collaborate on data-driven projects and open-source contributions
 - 🤔 I’m looking for help with Python , Data structures
 - 💬 Ask me about any data science related queries
-- 📫 How to reach me: 
+- :mailbox: How to reach me: 
       email: achyuttiwari22@gmail.com
       linkedin : https://www.linkedin.com/in/achyut-tiwari-aa3650225/
 - 😄 Pronouns: he/him
