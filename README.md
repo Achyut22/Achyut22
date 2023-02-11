@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/achyut-tiwari-aa3650225/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,13 +14,13 @@
   </a>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Achyut22&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>
+<h2>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h2>
 
 <!--
 **Achyut22/Achyut22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
