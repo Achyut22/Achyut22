@@ -37,4 +37,3 @@ Here are some ideas to get you started:
       linkedin : https://www.linkedin.com/in/achyut-tiwari-aa3650225/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a gym freak and have an equal passion for lifting weights and coding. I believe just like how we train our bodies, we should also train our minds to be stronger every day
--->
