@@ -22,16 +22,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
-🔭 I’m currently working on Data science projects with python
-🌱 I’m currently learning DSA , Predictive analysis , AI applications
-👯 I’m looking to collaborate with other data science students and professionals on projects that will help me develop my skills and gain more experience in the field. 
-🤔 I’m looking for help with Python
-💬 Ask me about anything related to data science 
-📫 How to reach me: 
+- 🔭 I’m currently working on Data science projects with python
+- 🌱 I’m currently learning DSA , Predictive analysis , AI applications
+- 👯 I’m looking to collaborate with other data science students and professionals on projects that will help me develop my skills and gain more experience in the  field. 
+- 🤔 I’m looking for help with Python
+- 💬 Ask me about anything related to data science 
+- 📫 How to reach me: 
     Email: achyuttiwari22@gmail.com
     Linkedin : https://www.linkedin.com/in/achyut-tiwari-aa3650225/
-😄 Pronouns: He/Him
-⚡ Fun fact: When I'm not pushing code, I'm pushing weights at the gym. Also I never skip a leg day - just like I never skip a commit! 💪🏋️‍♀️
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: When I'm not pushing code, I'm pushing weights at the gym. Also I never skip a leg day - just like I never skip a commit! 💪🏋️‍♀️
 <!--
 **Achyut22/Achyut22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
