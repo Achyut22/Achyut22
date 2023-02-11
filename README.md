@@ -14,7 +14,9 @@
   </a>
 </div>
 
+<div>
 https://komarev.com/ghpvc/?username=Achyut22
+<\div>
 <img src="https://komarev.com/ghpvc/?username=Achyut22&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
