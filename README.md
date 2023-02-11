@@ -25,16 +25,4 @@
 <!--
 **Achyut22/Achyut22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
----
 
-### :man_technologist: About Me :
-- :telescope: I’m currently working on data science projects with Python
-- :seedling: I’m currently learning DSA , Predictive analysis , AI applications
-- 👯 I’m looking to collaborate on data-driven projects and open-source contributions
-- 🤔 I’m looking for help with Python , Data structures
-- 💬 Ask me about any data science related queries
-- :mailbox: How to reach me: 
-      email: achyuttiwari22@gmail.com
-      linkedin : https://www.linkedin.com/in/achyut-tiwari-aa3650225/
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a gym freak and have an equal passion for lifting weights and coding. I believe just like how we train our bodies, we should also train our minds to be stronger every day
