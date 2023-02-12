@@ -54,7 +54,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Achyut22&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achyut22&layout=compact&theme=vision-friendly-dark)](https://github.com/Achyut22/github-readme-stats)
 <!--
 **Achyut22/Achyut22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
