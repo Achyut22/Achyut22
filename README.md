@@ -47,7 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+[![An image of @achyut22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/achyut22)](https://holopin.io/@achyut22)
 ---
 
 ### :fire: My Stats :
